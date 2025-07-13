@@ -33,5 +33,4 @@ This project implements the core backend services of a Virtual Private Network (
 
 ---
 
-## 📁 Project Structure
 
